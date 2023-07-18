@@ -22,7 +22,7 @@ public class AL {
         for (Integer Integer:al1) {
             System.out.print(Integer + " ");  //for each loop//
         }
-        Collections.synchronizedList(al1);
+        Collections.synchronizedList(al1); 
 
         }
 
